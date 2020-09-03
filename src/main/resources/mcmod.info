@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thaumicikisugimagic",
+  "name": "Thaumic Ikisugi Magic",
+  "description": "Ikisugi!!!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SIKI MASAO"],
+  "credits": "TeamFelNull",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
