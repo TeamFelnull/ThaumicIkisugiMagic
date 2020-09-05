@@ -19,6 +19,7 @@ public class ThaumicIkisugiMagic {
     @EventHandler
     public void preInit(FMLPreInitializationEvent e) {
         Proxy.preInit();
+
     }
 
     @EventHandler
