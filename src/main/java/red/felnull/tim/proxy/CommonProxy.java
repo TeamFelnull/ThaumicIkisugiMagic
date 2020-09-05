@@ -1,5 +1,6 @@
 package red.felnull.tim.proxy;
 
+import net.minecraft.util.DamageSource;
 import net.minecraft.util.ResourceLocation;
 import red.felnull.tim.ThaumicIkisugiMagic;
 import red.felnull.tim.item.TIMItems;
