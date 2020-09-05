@@ -1,6 +1,5 @@
 package red.felnull.tim.proxy;
 
-import net.minecraft.util.DamageSource;
 import net.minecraft.util.ResourceLocation;
 import red.felnull.tim.ThaumicIkisugiMagic;
 import red.felnull.tim.item.TIMItems;
@@ -18,5 +17,5 @@ public class CommonProxy {
 
     public void postInit() {
         ResearchCategories.registerCategory("THAUMIC_IKISUGI_MAGIC", new ResourceLocation(ThaumicIkisugiMagic.MODID, "textures/gui/gui_researchbackikisugi.png"), new ResourceLocation(ThaumicIkisugiMagic.MODID, "textures/gui/gui_researchbackikisugi.png"));
-          }
-          }
+    }
+}
